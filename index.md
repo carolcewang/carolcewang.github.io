@@ -11,7 +11,8 @@ My name is Carol Wang, living in Brisbane. I am currently a business and test an
 * Strong self-awareness and self-motivated  
 
 ### My Learning Progress
-[CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+[Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Aug 2017 - Now
+
 
 ### My Interests
 * Interacting with people
