@@ -15,12 +15,16 @@ My name is Carol Wang, living in Brisbane. I am currently a business and test an
 
 
 ### My Interests
-* Interacting with people
-* Cooking 
-* Reading 
-* Drawing
+- Interacting with people
+- Cooking 
+- Reading 
+- Drawing
 
 ### My Quotes
 > Life isn't about finding yourself; life is about creating yourself. - George Bernard Shaw  
+
 > In the middle of every difficulty lies opportunity. - Albert Einstein  
+
 > Happiness is not the absence of problems; it is the ability to deal with them. - steve maraboli  
+
+> I hear, I know. I see, I remember. I do, I understand. - Confucius 
